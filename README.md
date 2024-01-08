@@ -1,3 +1,6 @@
+## The actual code is in the TeamCode/java// folder
+user_ctrld is the part where the user controls the bot and auto is autonomous
+
 ## NOTICE
 
 This repository contains the public FTC SDK for the CENTERSTAGE (2023-2024) competition season.
